@@ -1,3 +1,4 @@
+'use strict';
 /**
 Hook is executed at the end of the 'prepare' stage. Usually, when you call 'cordova build'.
 

@@ -1,3 +1,5 @@
+'use strict';
+
 /*
 Small helper class to read/write from/to xml file.
 */

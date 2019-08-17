@@ -1,3 +1,5 @@
+'use strict';
+
 /**
 Class injects plugin preferences into AndroidManifest.xml file.
 */

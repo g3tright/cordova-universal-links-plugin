@@ -1,3 +1,5 @@
+'use strict';
+
 /*
 Parser for config.xml file. Read plugin-specific preferences (from <universal-links> tag) as JSON object.
 */

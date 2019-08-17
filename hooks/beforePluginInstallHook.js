@@ -1,3 +1,5 @@
+'use strict';
+
 /**
 Hook is executed when plugin is added to the project.
 It will check all necessary module dependencies and install the missing ones locally.

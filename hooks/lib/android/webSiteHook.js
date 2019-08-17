@@ -1,3 +1,5 @@
+'use strict';
+
 /*
 Class creates android_web_hook.html file in your Cordova project root folder.
 File holds <link /> tags, which are generated based on data, specified in config.xml.

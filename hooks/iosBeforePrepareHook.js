@@ -1,3 +1,5 @@
+'use strict';
+
 /*
 Hook executed before the 'prepare' stage. Only for iOS project.
 It will check if project name has changed. If so - it will change the name of the .entitlements file to remove that file duplicates.

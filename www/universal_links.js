@@ -10,7 +10,7 @@ var exec = require('cordova/exec'),
   DEFAULT_EVENT_NAME = 'didLaunchAppFromLink';
 
 // Plugin methods on the native side that can be called from JavaScript
-pluginNativeMethod = {
+var pluginNativeMethod = {
   SUBSCRIBE: 'jsSubscribeForEvent',
   UNSUBSCRIBE: 'jsUnsubscribeFromEvent'
 };
