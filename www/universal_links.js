@@ -1,3 +1,5 @@
+'use strict';
+
 var exec = require('cordova/exec'),
   channel = require('cordova/channel'),
 
